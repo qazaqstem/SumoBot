@@ -1,4 +1,6 @@
 # SumoBot v1
+![photo_2024-05-27_12-10-24](https://github.com/qazaqstem/SumoBot/assets/20697381/bd4fec1b-97ba-4123-9f50-b2ed17f5f1b4)
+
 4 motor Sumo bot 500g for competition
 Here prepared 3d model for 3d printing. And simple sketch writed for Arduino Pro Micro. And i maded PCB for this project in EasyEDA. 
 List of components:
