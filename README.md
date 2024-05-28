@@ -3,9 +3,9 @@
 
 4 motor Sumo bot 500g for competition
 Here prepared 3d model for 3d printing. And simple sketch writed for Arduino Pro Micro. And i maded PCB for this project in EasyEDA. Here you can find Gerber, for produce PCB.
+
 List of components:
 1 - Arduino pro Micro - link
-
 1 - Jsumo starting module - [link]([url](https://www.jsumo.com/microstart-sumo-minisumo-robot-start-module))
 1 - motor driver mini l298n - link
 1 - Step-down dc module hw 613 - link
@@ -16,6 +16,8 @@ List of components:
 10 - m3 heat insert 5mm - link
 6 - m3 screw 4 mm 
 1 - 2S type C charger - link
+1 - Locking button - link
+4 - M3 brass stand 12mm - link
 
 3d printed parts list:
 4 - Wheel disk
