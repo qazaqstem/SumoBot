@@ -5,6 +5,7 @@
 Here prepared 3d model for 3d printing. And simple sketch writed for Arduino Pro Micro. And i maded PCB for this project in EasyEDA. Here you can find Gerber, for produce PCB.
 List of components:
 1 - Arduino pro Micro - link
+
 1 - Jsumo starting module - [link]([url](https://www.jsumo.com/microstart-sumo-minisumo-robot-start-module))
 1 - motor driver mini l298n - link
 1 - Step-down dc module hw 613 - link
